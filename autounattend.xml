@@ -5,7 +5,6 @@
             <OOBE>
                 <HideOnlineAccountScreens>true</HideOnlineAccountScreens>
                 <HideLocalAccountScreen>true</HideLocalAccountScreen>
-                <HideWirelessSetupInOOBE>true</HideWirelessSetupInOOBE>
                 <ProtectYourPC>3</ProtectYourPC>
 
             </OOBE>

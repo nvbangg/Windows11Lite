@@ -31,8 +31,4 @@ D:/setup/Windows11Lite.ps1 -ISO E
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-DB61A2?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://nvbangg.github.io/#donate)
 
-<div align="center">
-
-[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/Windows11Lite?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/Windows11Lite) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=Windows11Lite&countColor=blue&style=flat&labelStyle=none)<br><img src="https://nvbangg.github.io/assets/gifs/follow_star_github.gif" height="100">
-
-</div>
+[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/Windows11Lite?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/Windows11Lite) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=Windows11Lite&countColor=blue&style=flat&labelStyle=none)
